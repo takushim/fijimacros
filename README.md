@@ -1,4 +1,4 @@
-# My personal FIJI macros
+# FIJI macros
 
 A repository containing FIJI macros prepared for my convenience.
 
